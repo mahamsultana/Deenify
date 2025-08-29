@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     siteName: "Deeenify",
     images: [
       {
-        url: "/og-image.png", // create this in /public
+        url "/image.ico",
         width: 1200,
         height: 630,
         alt: "Deeenify Islamic AI Chatbot",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     title: "Deeenify | Islamic AI Chatbot",
     description:
       "An Islamic AI chatbot that provides authentic answers from the Quran and Hadith. Ask Islamic questions, learn Duas, and more.",
-    images: ["/og-image.png"], // same image for Twitter preview
+    images: ["/image.ico"],e.png"], // same image for Twitter preview
     creator: "@yourhandle", // optional
   },
 };
